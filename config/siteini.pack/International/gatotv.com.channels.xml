@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" site="gatotv.com">
   <channels>
-    <channel update="i" site="gatotv.com" site_id="hola_tv" xmltv_id="Canal ¡Hola! TV">Canal ¡Hola! TV</channel>
+    <channel update="i" site="https://www.navarratelevision.es/Programacion/Canal2" site_id="Navarra TV 2" xmltv_id="Navarra TV 2">Navarra TV  2</channel>
     <channel update="i" site="gatotv.com" site_id="11_de_costa_rica" xmltv_id="Canal 11 de Costa Rica">Canal 11 de Costa Rica</channel>
     <channel update="i" site="gatotv.com" site_id="11_de_guatemala_teleonce" xmltv_id="Canal 11 de Guatemala (Teleonce)">Canal 11 de Guatemala (Teleonce)</channel>
     <channel update="i" site="gatotv.com" site_id="12_de_el_salvador" xmltv_id="Canal 12 de El Salvador">Canal 12 de El Salvador</channel>
