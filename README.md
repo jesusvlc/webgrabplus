@@ -2,7 +2,7 @@
 9 years ago
 
 siteini.pack 20160719
-    <channel update="i" site="https://www.navarratelevision.es/Programacion/Canal2" site_id="Navarra TV2" xmltv_id="Navarra TV2">Navarra TV2</channel>
+    <channel update="i" site="https://www.navarratelevision.es/Programacion/Canal2" site_id="Navarra_TV2" xmltv_id="Navarra TV2">Navarra TV2</channel>
     <channel update="i" site="gatotv.com" site_id="america_teve" xmltv_id="Canal América TeVé">Canal América TeVé</channel>
     <channel update="i" site="gatotv.com" site_id="animal_planet" xmltv_id="Canal Animal Planet">Canal Animal Planet</channel>
     <channel update="i" site="gatotv.com" site_id="antena_3" xmltv_id="Canal Antena 3">Canal Antena 3</channel>
